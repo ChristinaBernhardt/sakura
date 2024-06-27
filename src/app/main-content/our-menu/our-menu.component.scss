@@ -1,0 +1,50 @@
+
+.ourmenu {
+    background-image: url(/img/section_our_menu_bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    font-family: 'Raleway';
+    font-weight: bold;
+    color: #675e54;
+    font-size: 32px;
+    padding-bottom: 120px;
+  
+  }
+  
+  .tonkatsu {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    padding-left: 140px;
+    vertical-align: middle;
+  
+  }
+  
+  .spicy {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: end;
+    padding-right: 140px;
+    vertical-align: middle;
+  
+  }
+  
+  .tonkatsuimg {
+    width: 352px;
+    height: 352px;
+  
+  
+  }
+  
+  .tonkatsutable {
+    display: flex;
+    padding: 0px 50px;
+  
+  
+  }

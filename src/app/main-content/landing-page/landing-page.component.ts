@@ -12,7 +12,7 @@ import { NavbarComponent } from './navbar/navbar.component';
     <h1 class="fontRaleway">SAKURA RAMEN</h1>
     <h2 class="fontRaleway">Best Ramen in Town</h2>
 </section>`,
-    styleUrls: ['./landingPage.component.scss']
+    styleUrls: ['./landing-page.component.scss']
 })
 export class landingPageComponent {
 

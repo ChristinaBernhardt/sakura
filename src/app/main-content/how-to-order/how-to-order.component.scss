@@ -1,0 +1,27 @@
+.ordersteps {
+    color: black;
+    font-size: 56px;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Economica', bold;
+    padding-top: 64px;
+  }
+  
+  .order {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .orderimg {
+    width: 50%;
+    display: flex;
+  }
+  
+  .ordertext {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 64px;
+  }

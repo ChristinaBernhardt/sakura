@@ -1,0 +1,23 @@
+footer {
+    background-color: rgb(40, 40, 40);
+    color: white;
+    height: 144px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    padding-inline-start: 64px;
+    padding-inline-end: 64px;
+    align-items: center;
+  }
+  
+  .inst {
+    height: 40px;
+    width: 40px;
+    padding-left: 15px;
+  }
+  
+  .social {
+    display: flex;
+    justify-content: space-around;
+  }
