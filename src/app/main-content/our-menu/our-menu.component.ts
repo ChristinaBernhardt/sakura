@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   template: ` <section class="ourmenu">
-  <h2 id="translate3">OUR MENU</h2>
+  <h1 id="translate3">OUR MENU</h1>
 
   <div class="tonkatsu">
     <img class="tonkatsuimg" src="./img/R1.png" alt="tonkatsuimg">

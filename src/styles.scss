@@ -3,18 +3,17 @@
 
 * {
   margin: 0;
+  font-family: 'Raleway';
 }
 
 .fontRaleway {
   font-family: 'Raleway';
-
 }
 
 h1,
 h2 {
   color: whitesmoke;
 }
-
 
 h1 {
   font-weight: bold;
@@ -24,4 +23,8 @@ h1 {
 
 h2 {
   font-size: 32px;
+}
+
+html {
+  scroll-behavior: smooth;
 }

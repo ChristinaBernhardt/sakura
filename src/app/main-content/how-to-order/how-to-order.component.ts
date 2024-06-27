@@ -4,8 +4,8 @@ import { Component } from '@angular/core';
   selector: 'app-how-to-order',
   standalone: true,
   imports: [],
-  template: ` <section>
-  <h2 id="translate2">HOW TO ORDER</h2>
+  template: ` <section >
+  <h1 id="translate2">HOW TO ORDER</h1>
   <div class="ordersteps">
     <div class="order">
       <img class="orderimg" src="./img/noodle.png">
